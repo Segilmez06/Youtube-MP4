@@ -1,0 +1,22 @@
+{
+  "name": "DL-MP4",
+  "version": "0.0.1",
+  "description": "Node.js Youtube MP4 downloader",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "get-title-at-url": "^1.1.8",
+    "handlebars": "^4.7.7",
+    "point-of-view": "^4.14.0",
+    "ytdl-core": "^4.9.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://github.com/Segilmez06/YT-MP4-Downloader"
+  },
+  "license": "MIT"
+}
